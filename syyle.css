@@ -1,0 +1,11 @@
+.navbar-custom {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+.navbar-custom .nav-link,
+.navbar-custom .navbar-brand {
+    color: #B2F2FF;
+}
+.navbar-custom .nav-link.active {
+    font-weight: bold;
+}
